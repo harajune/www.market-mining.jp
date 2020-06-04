@@ -43,8 +43,6 @@ const ContactForm = () => {
         name='contact'
         onSubmit={handleSubmit}
         onReset={handleReset}
-        data-netlify='true'
-        data-netlify-honeypot='bot-field'
       >
         <div className='field'>
           <label className='label'>Name</label>
