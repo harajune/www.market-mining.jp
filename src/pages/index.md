@@ -1,6 +1,6 @@
 ---
 templateKey: 'home-page'
-title: Market Mining, Inc
+title: Market Mining, Inc.
 meta_title: Home | Market Mining, Inc
 meta_description: >-
   Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
