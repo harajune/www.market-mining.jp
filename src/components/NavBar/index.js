@@ -33,13 +33,16 @@ const NavBar = ({ toggleNavbar, isActive }) => (
             <Link className='navbar-item' to='/'>
                             Home
             </Link>
+            <Link className='navbar-item' to='/showcase'>
+                            実績
+            </Link>
             <Link className='navbar-item' to='/about'>
-                            About
+                            当社について
             </Link>
             {/*<Link className='navbar-item' to='/blog'>
                             Blog
             </Link>*/}
-            <div className='navbar-item'>
+            {/*<div className='navbar-item'>
               <div className='field is-grouped'>
                 <p className='control'>
                   <Link
@@ -49,7 +52,7 @@ const NavBar = ({ toggleNavbar, isActive }) => (
                   </Link>
                 </p>
               </div>
-            </div>
+          </div>*/}
           </div>
         </div>
       </nav>

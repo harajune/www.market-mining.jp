@@ -9,6 +9,7 @@ const Offerings = ({ gridItems }) => (
           <p className='has-text-centered'>
             <img alt='' src={item.image} />
           </p>
+          <h3>{item.header}</h3>
           <p>{item.text}</p>
         </section>
       </div>
