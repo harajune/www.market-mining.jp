@@ -6,7 +6,7 @@ const Vision = () => {
       <div className='container'>
           <div className='columns'> 
             <div className='column is-offset-1'>
-              <h2 className='title'>Vision</h2>
+              <h2 className='title'>Mission</h2>
             </div>
           </div>
           <div className='columns'>
