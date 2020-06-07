@@ -7,9 +7,24 @@ meta_description: >-
   ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
   venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
   consectetur purus sit amet fermentum.
+md_photo: /img/harajune.jpg
+md_description: >-
+  学生時代に色々な企業のWebサービス開発の支援を始める。
+  大手コンサルティングファームでプロジェクトマネジメントやデータサイエンティストの経験をつみ、課題発見・課題解決の手法を学ぶ。
+  IoTベンチャーの経営に参画し、新規事業開発・大手企業との協業立ち上げを経験し、現職。
 ---
 
-## 経営者略歴
+## 会社概要： マーケット・マイニング株式会社
+### 代表取締役
+原田 惇
+
+### 設立日
+2019年3月
+
+### 所在地
+東京都渋谷区渋谷3-5-16 渋谷3丁目スクエアビル2F
+
+## 代表者略歴
 
 ### 2019年 - 現在: マーケット・マイニング株式会社を創業
 - 技術選定・プロジェクトマネジメント支援

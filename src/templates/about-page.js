@@ -19,6 +19,8 @@ const AboutPage = ({ data }) => {
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
         content={post.html}
+        md_photo={post.frontmatter.md_photo}
+        md_description={post.frontmatter.md_description}
       />
     </Layout>
   )
@@ -38,6 +40,8 @@ export const aboutPageQuery = graphql`
         title
         meta_title
         meta_description
+        md_photo
+        md_description
       }
     }
   }
