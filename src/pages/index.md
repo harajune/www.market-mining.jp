@@ -9,7 +9,7 @@ meta_description: >-
   consectetur purus sit amet fermentum.
 heading: Services
 description: >-
-  プロダクト開発、プロジェクトマネジメント、
+  デジタルトランスフォーメーションからデジタル・技術を活用した業務効率化まで幅広いサービスを提供しています。
 offerings:
   blurbs:
     - image: /img/dx.png
