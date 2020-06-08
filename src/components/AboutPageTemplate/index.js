@@ -25,7 +25,7 @@ const AboutPageTemplate = ({ title, content, contentComponent, md_photo, md_desc
       <section className='section about'>
         <div className='container'>
           <div className='columns'>
-            <div className='column is-offset-1'>
+            <div className='column is-offset-1 is-10'>
               <div className='content'>
               <h2>
                 代表者: 原田 惇
@@ -39,7 +39,7 @@ const AboutPageTemplate = ({ title, content, contentComponent, md_photo, md_desc
                 <img src={md_photo} />
               </figure>
             </div>
-            <div className='column'>
+            <div className='column is-7'>
               {md_description}
             </div>
           </div>
