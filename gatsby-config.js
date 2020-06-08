@@ -30,6 +30,12 @@ module.exports = {
       },
     },
     {
+      resolve: 'gatsby-plugin-google-analytics',
+      options: {
+        trackingId: "UA-168685385-1"
+      }
+    },
+    {
       resolve: 'gatsby-source-filesystem',
       options: {
         path: `${__dirname}/src/pages`,
