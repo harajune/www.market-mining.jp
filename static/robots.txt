@@ -1,5 +1,4 @@
 User-agent: *
 Disallow: */admin/
-Disallow: */tags/
 
-sitemap: https://gatsby-starter-business.netlify.com/sitemap.xml
+sitemap: https://www.market-mining.tech/sitemap.xml
