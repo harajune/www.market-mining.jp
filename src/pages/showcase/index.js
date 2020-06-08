@@ -10,7 +10,7 @@ const ShowcasePage = () => {
           <title>実績 | Market Mining, Inc</title>
           <meta
             name="description"
-            content="マーケット・マイニング株式会社の実績、過去のプレゼンテーション"
+            content="マーケット・マイニング株式会社のデジタル・トランスフォーメーションやIT技術活用の実績をご紹介します。"
           />
         </Helmet>
         <section className="hero is-bold is-primary">

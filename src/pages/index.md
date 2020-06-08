@@ -3,10 +3,7 @@ templateKey: 'home-page'
 title: Market Mining, Inc.
 meta_title: Home | Market Mining, Inc
 meta_description: >-
-  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
-  ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
-  venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
-  consectetur purus sit amet fermentum.
+ マーケット・マイニング株式会社はマーケットを構造化しテクノロジーの進化を取り入れ変革することをMissinoとした、デジタル・トランスフォーメーション DX カンパニーです。ITを活用した新しいUX・生産性の向上の実現と支援を行っています。
 heading: Services
 description: >-
   デジタルトランスフォーメーションからデジタル・技術を活用した業務効率化まで幅広いサービスを提供しています。
