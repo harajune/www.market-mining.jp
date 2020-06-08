@@ -3,7 +3,7 @@ module.exports = {
   siteTitleAlt: 'マーケット・マイニング株式会社', // Alternative site title for SEO.
   siteUrl: 'https://www.market-mining.tech/', // Domain of your website without pathPrefix.
   pathPrefix: '', // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-business/.
-  siteDescription: 'マーケット・マイニング株式会社はマーケットを構造化しテクノロジーの進化を取り入れ変革することをMissinoとした、デジタル・トランスフォーメーション DX カンパニーです。', // Website description used for RSS feeds/meta description tag.
+  siteDescription: 'マーケット・マイニング株式会社はマーケットを構造化しテクノロジーの進化を取り入れ変革することをMissionとした、デジタル・トランスフォーメーション DX カンパニーです。', // Website description used for RSS feeds/meta description tag.
   siteRss: '/rss.xml',
   siteFBAppID: '', // FB Application ID for using app insights
   googleTagManagerID: '', // GTM tracking ID.
