@@ -47,7 +47,7 @@ const NavBar = ({ toggleNavbar, isActive }) => (
                 <p className='control'>
                   <Link
                     className='button is-primary is-outlined'
-                    to='/contact'>
+                    to='https://docs.google.com/forms/d/e/1FAIpQLSfpCPROpo1jeHLO-_2k61fTW8RN-pFblPRUINRAxrpVMs6KnA/viewform?usp=sf_link'>
                             お問合せ
                   </Link>
                 </p>
