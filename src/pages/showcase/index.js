@@ -30,6 +30,7 @@ const ShowcasePage = () => {
               <div className="column is-10 is-offset-1">
                 <div className="content">
                   <h2>会社概要 / 過去の実績</h2>
+                  <figure className='image is-16by9'>
                   <iframe
                     src="https://docs.google.com/presentation/d/e/2PACX-1vT8qbrWVxLmq4Yk72FAt5ETEalQA5bFg-ooRG8shN2DBDH3sVKuqZt9WnffGHXLkl9dybZTzOGSh-Ko/embed?start=false&loop=false&delayms=3000"
                     frameborder="0"
@@ -38,8 +39,9 @@ const ShowcasePage = () => {
                     allowfullscreen="true"
                     mozallowfullscreen="true"
                     webkitallowfullscreen="true"
-                    className='googleslides'
+                    className='has-ratio'
                   ></iframe>
+                  </figure>
                 </div>
               </div>
             </div>
