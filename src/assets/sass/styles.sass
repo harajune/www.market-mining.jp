@@ -25,8 +25,19 @@ body,
   flex: 1
 
 .tophero
-  background-image: url('https://upload.wikimedia.org/wikipedia/commons/2/24/Mount_Ishizuchi.jpg');
+  background-image: url('/img/top-hero.jpg');
   background-size: cover;
+  background-position: center center;
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  text-shadow: 3px 3px 6px #000;
+  
+  .title
+    color: #fff;
+  
++mobile
+  .tophero
+    height: 200px;
 
 .line-block
   display: inline-block;
